@@ -1,6 +1,7 @@
 # CMRIT MUN Landing Website
 
 [![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+
 **Built with Astro and TailwindCSS**
 
 ## Commands
